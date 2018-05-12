@@ -1,10 +1,16 @@
 _repo: The-Mentor-Painters-of-Western-Life-Vol-3-Num-9-Serial-No-85-June-15-1915_50803
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50803-h/images/cover.jpg
 creator:
   author:
     agent_name: Hoeber, Arthur
     gutenberg_agent_id: '46032'
     url: http://www.gutenberg.org/2009/agents/46032
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50803#The-Mentor-Painters-of-Western-Life-Vol-3-Num-9-Serial-No-85-June-15-1915
 gutenberg_issued: '2015-12-31'
 gutenberg_type: Text
 identifiers:
