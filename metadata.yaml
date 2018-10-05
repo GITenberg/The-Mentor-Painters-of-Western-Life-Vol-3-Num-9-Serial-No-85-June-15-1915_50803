@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Mentor: Painters of Western Life, Vol 3, Num. 9, Serial No. 85, June 15,
   1915'
 url: http://www.gutenberg.org/ebooks/50803
